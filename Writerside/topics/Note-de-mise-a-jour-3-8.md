@@ -6,15 +6,12 @@
 - Ajout de la possibilité d'exclusion de membres de certaines votations.
 
 
-### Nouvelles fonctionnalités
+### Modifications
 
 - Ajout de la possibilité de réinitialiser un votant
 - Ajout de la possibilité de réinitialiser une votation
-
-
-### Langues
 - Remplacement des lettres "p/r/i/a" par des icônes
--
+
 
 ### Correction de bugs
 
