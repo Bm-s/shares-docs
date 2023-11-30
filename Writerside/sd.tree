@@ -6,6 +6,6 @@
                  name="Shares Documentation"
                  start-page="Shares-Docs.md">
 
-    <toc-element topic="Shares-Docs.md"/>
     <toc-element topic="Note-de-mise-a-jour-3-8.md"/>
+    <toc-element topic="Shares-Docs.md"/>
 </instance-profile>
