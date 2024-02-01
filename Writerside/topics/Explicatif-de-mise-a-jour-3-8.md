@@ -8,11 +8,11 @@ Pour correspondre à l'article 495 CO, il est maintenant possible d'exclure des 
 
 Un bouton a été ajouté dans la liste des votations pour exclure un membre de la votation. 
 
-![3-8-01.png](3-8-01.png)
+![3-8-01.png](3-8_01.png)
 
 Lorsqu'un membre est exclu, il ne peut plus voter sur cette votation. Il est toujours possible de le réintégrer dans la votation en cliquant sur le bouton "Réintégrer" dans la liste des votations.
 
-![3-8-02.png](3-8-02.png)
+![3-8-02.png](3-8_02.png)
 
 Une fois un votant exclu, il doit être réinitialisé pour réintégrer la liste des votants de la votation.
 
