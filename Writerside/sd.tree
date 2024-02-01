@@ -7,5 +7,7 @@
                  start-page="Shares-Docs.md">
 
     <toc-element topic="Shares-Docs.md"/>
-    <toc-element topic="Note-de-mise-a-jour-3-8.md"/>
+    <toc-element topic="Notes-de-mise-a-jour.md">
+        <toc-element topic="Explicatif-de-mise-a-jour-3-8.md"/>
+    </toc-element>
 </instance-profile>
